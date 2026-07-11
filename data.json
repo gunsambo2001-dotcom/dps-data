@@ -1,0 +1,1030 @@
+{
+ "updated": "23:59",
+ "updated_full": "2026-07-24 23:59",
+ "updated_ts": 1784908772,
+ "date": "2026-07-24",
+ "window_hours": 3,
+ "window": "20:59–23:59",
+ "messages": [
+  {
+   "time": "21:00",
+   "ts": 1784898000,
+   "author": "Дарья Дронова",
+   "text": "Где темаки",
+   "quote": "Р Д Где это?",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "21:01",
+   "ts": 1784898060,
+   "author": "Надежда",
+   "text": "18квартал",
+   "quote": "Р Д Где это?",
+   "fwd": false,
+   "kind": "other",
+   "borts": []
+  },
+  {
+   "time": "21:02",
+   "ts": 1784898120,
+   "author": "Олег",
+   "text": "Левые шинка как",
+   "quote": "",
+   "fwd": false,
+   "kind": "other",
+   "borts": []
+  },
+  {
+   "time": "21:02",
+   "ts": 1784898120,
+   "author": "Рад",
+   "text": "Где это?",
+   "quote": "София Видеосообщение",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "21:02",
+   "ts": 1784898120,
+   "author": "Tuyana Tsydenova",
+   "text": "Как с южлага до 0км?)",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "21:03",
+   "ts": 1784898180,
+   "author": "Дарья Дронова",
+   "text": "Снялись",
+   "quote": "Дарья Дронова Где темаки",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "21:03",
+   "ts": 1784898180,
+   "author": "Илья",
+   "text": "как почтовка?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "21:04",
+   "ts": 1784898240,
+   "author": "Валентин",
+   "text": "Как поселье, аэропорт",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "21:04",
+   "ts": 1784898240,
+   "author": "Валентин",
+   "text": "71 с сотниково на бурвод залетел",
+   "quote": "",
+   "fwd": false,
+   "kind": "other",
+   "borts": [
+    "71"
+   ]
+  },
+  {
+   "time": "21:05",
+   "ts": 1784898300,
+   "author": "Ринчин",
+   "text": "Чисто",
+   "quote": "Илья как почтовка?",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "21:05",
+   "ts": 1784898300,
+   "author": "Надежда",
+   "text": "Уехали уже , Поселье",
+   "quote": "Рад Где это?",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "21:12",
+   "ts": 1784898720,
+   "author": "Данила",
+   "text": "Как с бани до зеленого",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "21:13",
+   "ts": 1784898780,
+   "author": "Иван",
+   "text": "Со стрелки до обелиска чисто",
+   "quote": "Данила Как с бани до зеленого",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "21:13",
+   "ts": 1784898780,
+   "author": "Екатерина Оловянникова",
+   "text": "Добрый вечер, восточный, Мунгонова?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "21:13",
+   "ts": 1784898780,
+   "author": "Екатерина Оловянникова",
+   "text": "Эрхирик?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "21:16",
+   "ts": 1784898960,
+   "author": "Artem Ka",
+   "text": "Добрый вечер , как Иволгинск ?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "21:16",
+   "ts": 1784898960,
+   "author": "Санёк",
+   "text": "Саяны чисто",
+   "quote": "",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "21:19",
+   "ts": 1784899140,
+   "author": "Алексей",
+   "text": "Как бурвод левый барсойка подскажите пожалуйста",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "21:22",
+   "ts": 1784899320,
+   "author": "Atavizm",
+   "text": "По федералке чисто ,гуны чисто",
+   "quote": "Artem Ka Добрый вечер , как Иволгинск ?",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "21:22",
+   "ts": 1784899320,
+   "author": "Дарима Мункуева",
+   "text": "Два Кита??",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "21:23",
+   "ts": 1784899380,
+   "author": "Василина Жигзымаева",
+   "text": "нижний саянтуй как?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "21:24",
+   "ts": 1784899440,
+   "author": "Жаргал",
+   "text": "Два кита чисто",
+   "quote": "",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "21:26",
+   "ts": 1784899560,
+   "author": "Елена",
+   "text": "Как трубачеева?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "21:26",
+   "ts": 1784899560,
+   "author": "Tuyana",
+   "text": "Чисто до Гусиного озера",
+   "quote": "Андрей Как до Щучки , где бывают посты? Подскажите пожалуйста.",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "21:27",
+   "ts": 1784899620,
+   "author": "Дарима Мункуева",
+   "text": "Как Сахьянова?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "21:28",
+   "ts": 1784899680,
+   "author": "Г",
+   "text": "Пост сотниково как",
+   "quote": "",
+   "fwd": false,
+   "kind": "other",
+   "borts": []
+  },
+  {
+   "time": "21:29",
+   "ts": 1784899740,
+   "author": "Олеся",
+   "text": "На Щучку борт уехал",
+   "quote": "",
+   "fwd": false,
+   "kind": "active",
+   "borts": []
+  },
+  {
+   "time": "21:32",
+   "ts": 1784899920,
+   "author": "Жаргал",
+   "text": "Революция, стеколка как?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "21:33",
+   "ts": 1784899980,
+   "author": "Арюна Жамбалдоржиева",
+   "text": "Как борсоева? Юбилейка?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "21:37",
+   "ts": 1784900220,
+   "author": "Иван",
+   "text": "Как по мз",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "21:37",
+   "ts": 1784900220,
+   "author": "wertyxq",
+   "text": "стоит борт без люстр на воинской части в сторону восходов минут 15 назад проезжал",
+   "quote": "",
+   "fwd": false,
+   "kind": "active",
+   "borts": [
+    "15"
+   ]
+  },
+  {
+   "time": "21:37",
+   "ts": 1784900220,
+   "author": "Дарима Мункуева",
+   "text": "Гмз????",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "21:38",
+   "ts": 1784900280,
+   "author": "Елена",
+   "text": "Как мясокомбинат?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "21:40",
+   "ts": 1784900400,
+   "author": "ВССШИ",
+   "text": "Мегадом подскажите пожалуйста",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "21:43",
+   "ts": 1784900580,
+   "author": "Елена",
+   "text": "Чисто",
+   "quote": "Елена Как мясокомбинат?",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "21:56",
+   "ts": 1784901360,
+   "author": "Василина Жигзымаева",
+   "text": "соломон как?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "21:58",
+   "ts": 1784901480,
+   "author": "Дарима Мункуева",
+   "text": "???",
+   "quote": "Елена Как мясокомбинат?",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "21:59",
+   "ts": 1784901540,
+   "author": "Дарима Мункуева",
+   "text": "Товары Бурятии???",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "21:59",
+   "ts": 1784901540,
+   "author": "Алеся",
+   "text": "После Соломона примерно 500 метров стоит в кармане патриот, номер не видно, в сторону города, без палок, без маяков и света",
+   "quote": "",
+   "fwd": false,
+   "kind": "active",
+   "borts": []
+  },
+  {
+   "time": "22:00",
+   "ts": 1784901600,
+   "author": "Алеся",
+   "text": "Метров через 500 в сторону города в кармане Патрик, ни палок, ни света, ни люстр.",
+   "quote": "Василина Жигзымаева соломон как?",
+   "fwd": false,
+   "kind": "active",
+   "borts": [
+    "500"
+   ]
+  },
+  {
+   "time": "22:01",
+   "ts": 1784901660,
+   "author": "Алеся",
+   "text": "Мегадом как?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "22:03",
+   "ts": 1784901780,
+   "author": "Илья",
+   "text": "как интерьер?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "22:09",
+   "ts": 1784902140,
+   "author": "Rad vas videt",
+   "text": "Борт на камова",
+   "quote": "Переслано: Katrin",
+   "fwd": false,
+   "kind": "active",
+   "borts": []
+  },
+  {
+   "time": "22:12",
+   "ts": 1784902320,
+   "author": "Андрей Алексеев",
+   "text": "Как восточная?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "22:12",
+   "ts": 1784902320,
+   "author": "Илья",
+   "text": "как пионер?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "22:13",
+   "ts": 1784902380,
+   "author": "Кира Жалсыновна",
+   "text": "Как борсоева?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "22:19",
+   "ts": 1784902740,
+   "author": "Марина",
+   "text": "Как левый шинка, стимул бурвод",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "22:21",
+   "ts": 1784902860,
+   "author": "Даниил",
+   "text": "есть у кого анти дпс вахмистрово",
+   "quote": "",
+   "fwd": false,
+   "kind": "active",
+   "borts": []
+  },
+  {
+   "time": "22:21",
+   "ts": 1784902860,
+   "author": "Даниил",
+   "text": "?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "22:21",
+   "ts": 1784902860,
+   "author": "Михаил",
+   "text": "40е квартала чисто",
+   "quote": "",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "22:22",
+   "ts": 1784902920,
+   "author": "Михаил",
+   "text": "гмз чисто",
+   "quote": "",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "22:26",
+   "ts": 1784903160,
+   "author": "Оля",
+   "text": "Чисто",
+   "quote": "Марина Как левый шинка, стимул бурвод",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "22:26",
+   "ts": 1784903160,
+   "author": "Kirill",
+   "text": "Как вб?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "22:29",
+   "ts": 1784903340,
+   "author": "Даниил",
+   "text": "в сторону пушкина уехад",
+   "quote": "Даниил Голосовое сообщение",
+   "fwd": false,
+   "kind": "other",
+   "borts": []
+  },
+  {
+   "time": "22:31",
+   "ts": 1784903460,
+   "author": "Даниил",
+   "text": "по нему догоняет когото",
+   "quote": "Даниил в сторону пушкина уехад",
+   "fwd": false,
+   "kind": "other",
+   "borts": []
+  },
+  {
+   "time": "22:31",
+   "ts": 1784903460,
+   "author": "Эрдэм Думаев",
+   "text": "Как с ВБ до центра?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "22:32",
+   "ts": 1784903520,
+   "author": "Inga",
+   "text": "Соломон чисто Барис чисто",
+   "quote": "",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "22:33",
+   "ts": 1784903580,
+   "author": "Константин Александрович",
+   "text": "Как прямая? Переезд? Сотые?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "22:34",
+   "ts": 1784903640,
+   "author": "Чингис Бурятия",
+   "text": "Как левый?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "22:34",
+   "ts": 1784903640,
+   "author": "ms",
+   "text": "С элеватора до поселья чисто",
+   "quote": "",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "22:34",
+   "ts": 1784903640,
+   "author": "Даниил",
+   "text": "на дундича увидед",
+   "quote": "Даниил в сторону пушкина уехад",
+   "fwd": false,
+   "kind": "other",
+   "borts": []
+  },
+  {
+   "time": "22:37",
+   "ts": 1784903820,
+   "author": "вячеслав",
+   "text": "как с октября до восточки?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "22:37",
+   "ts": 1784903820,
+   "author": "вячеслав",
+   "text": "?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "22:42",
+   "ts": 1784904120,
+   "author": "Дарья",
+   "text": "По октябрю в сторону элеватора на мигалках проехал",
+   "quote": "",
+   "fwd": false,
+   "kind": "active",
+   "borts": []
+  },
+  {
+   "time": "22:43",
+   "ts": 1784904180,
+   "author": "Vladislav Dolmatov",
+   "text": "Тулунжа борт выезжает",
+   "quote": "",
+   "fwd": false,
+   "kind": "active",
+   "borts": []
+  },
+  {
+   "time": "22:45",
+   "ts": 1784904300,
+   "author": "Aza Aza",
+   "text": "В какую сторону уехал?",
+   "quote": "Vladislav Dolmatov Тулунжа борт выезжает",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "22:50",
+   "ts": 1784904600,
+   "author": "Vladislav Dolmatov",
+   "text": "Не видел",
+   "quote": "Aza Aza В какую сторону уехал?",
+   "fwd": false,
+   "kind": "other",
+   "borts": []
+  },
+  {
+   "time": "22:53",
+   "ts": 1784904780,
+   "author": "Анастасия",
+   "text": "Как южлаг, почтовка подскажите пожалуйста",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "22:58",
+   "ts": 1784905080,
+   "author": "Stas",
+   "text": "На хатане на пятаке борт",
+   "quote": "",
+   "fwd": false,
+   "kind": "active",
+   "borts": []
+  },
+  {
+   "time": "22:59",
+   "ts": 1784905140,
+   "author": "Stas",
+   "text": "191",
+   "quote": "",
+   "fwd": false,
+   "kind": "other",
+   "borts": [
+    "191"
+   ]
+  },
+  {
+   "time": "22:59",
+   "ts": 1784905140,
+   "author": "Андрей",
+   "text": "Это где?",
+   "quote": "Stas На хатане на пятаке борт",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "23:00",
+   "ts": 1784905200,
+   "author": "Дарима Мункуева",
+   "text": "Труба как?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "23:00",
+   "ts": 1784905200,
+   "author": "Росомаха .",
+   "text": "Как левый ?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "23:00",
+   "ts": 1784905200,
+   "author": "Даниил",
+   "text": "Пионер кафе хатан на парковке встал 191 борт",
+   "quote": "",
+   "fwd": false,
+   "kind": "active",
+   "borts": [
+    "191"
+   ]
+  },
+  {
+   "time": "23:01",
+   "ts": 1784905260,
+   "author": "Татьяна Валерьевна",
+   "text": "Как восточный?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "23:06",
+   "ts": 1784905560,
+   "author": "Валентин",
+   "text": "Как горький? переезд? Прямая?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "23:06",
+   "ts": 1784905560,
+   "author": "Дарима Мункуева",
+   "text": "Как труба, Ключевская,?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "23:07",
+   "ts": 1784905620,
+   "author": "Дарима Мункуева",
+   "text": "Как мелькомбинат?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "23:10",
+   "ts": 1784905800,
+   "author": "Наталья Панова",
+   "text": "Подскажите стимул, ваи, начало солдатского в сторону аэропорта",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "23:15",
+   "ts": 1784906100,
+   "author": "Stas",
+   "text": "191 по пионеру кружит",
+   "quote": "",
+   "fwd": false,
+   "kind": "other",
+   "borts": [
+    "191"
+   ]
+  },
+  {
+   "time": "23:19",
+   "ts": 1784906340,
+   "author": "Валентин",
+   "text": "71 зум в сотые прошел",
+   "quote": "",
+   "fwd": false,
+   "kind": "other",
+   "borts": [
+    "71"
+   ]
+  },
+  {
+   "time": "23:20",
+   "ts": 1784906400,
+   "author": "Позитивчик",
+   "text": "191 на пио",
+   "quote": "",
+   "fwd": false,
+   "kind": "other",
+   "borts": [
+    "191"
+   ]
+  },
+  {
+   "time": "23:20",
+   "ts": 1784906400,
+   "author": "bs",
+   "text": "как аэропорт?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "23:20",
+   "ts": 1784906400,
+   "author": "bs",
+   "text": "исток ?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "23:23",
+   "ts": 1784906580,
+   "author": "Алтана",
+   "text": "Гормолзавод подскажите",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "23:25",
+   "ts": 1784906700,
+   "author": "Валентин",
+   "text": "Саяны подскажите пожалуйста",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "23:32",
+   "ts": 1784907120,
+   "author": "Анастасия",
+   "text": "Как правка читинский подскажите",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "23:33",
+   "ts": 1784907180,
+   "author": "Игорь Комарицын",
+   "text": "Как бурвод начало солдатский исток?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "23:35",
+   "ts": 1784907300,
+   "author": "Константин Александрович",
+   "text": "Как сотые, горький?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "23:38",
+   "ts": 1784907480,
+   "author": "Андрей Иванов",
+   "text": "Уехал?",
+   "quote": "Позитивчик 191 на пио",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "23:40",
+   "ts": 1784907600,
+   "author": "Кристина Ситникова",
+   "text": "Скажите пожалуйста как с соснового бора до почтовке",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "23:41",
+   "ts": 1784907660,
+   "author": "Дарима Мункуева",
+   "text": "Как автомобилистов????",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "23:42",
+   "ts": 1784907720,
+   "author": "Арсалан",
+   "text": "Борт заехал в поселье",
+   "quote": "",
+   "fwd": false,
+   "kind": "active",
+   "borts": []
+  },
+  {
+   "time": "23:44",
+   "ts": 1784907840,
+   "author": "Дарима Мункуева",
+   "text": "Мега дом как???",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "23:52",
+   "ts": 1784908320,
+   "author": "Слава",
+   "text": "как 20 а ?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": [
+    "20"
+   ]
+  },
+  {
+   "time": "23:53",
+   "ts": 1784908380,
+   "author": "Валерий",
+   "text": "130 видел кто ?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": [
+    "130"
+   ]
+  },
+  {
+   "time": "23:54",
+   "ts": 1784908440,
+   "author": "Роман",
+   "text": "Зверосовхоз группа Ани ДПС",
+   "quote": "",
+   "fwd": false,
+   "kind": "active",
+   "borts": []
+  },
+  {
+   "time": "23:55",
+   "ts": 1784908500,
+   "author": "Слава",
+   "text": "Как труба ?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "23:57",
+   "ts": 1784908620,
+   "author": "Дарима Мункуева",
+   "text": "Чисто",
+   "quote": "Слава как 20 а ?",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "23:57",
+   "ts": 1784908620,
+   "author": "Galina",
+   "text": "Как пионер?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  }
+ ]
+}
