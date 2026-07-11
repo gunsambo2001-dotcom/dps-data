@@ -1,0 +1,1231 @@
+{
+ "updated": "14:22",
+ "updated_full": "2026-07-26 14:22",
+ "updated_ts": 1785046979,
+ "date": "2026-07-26",
+ "window_hours": 3,
+ "window": "11:22–14:22",
+ "messages": [
+  {
+   "time": "11:24",
+   "ts": 1785036240,
+   "author": "Кирилл",
+   "text": "Чисто",
+   "quote": "Иван Как горький , медицинская?",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "11:25",
+   "ts": 1785036300,
+   "author": "Кирилл",
+   "text": "Как завод окон",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "11:25",
+   "ts": 1785036300,
+   "author": "Кирилл",
+   "text": "?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "11:25",
+   "ts": 1785036300,
+   "author": "Александр Петренко",
+   "text": "Как южлаг, Онохой, Заиграево?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "11:26",
+   "ts": 1785036360,
+   "author": "Ринчин",
+   "text": "Как мокрова, ГМЗ?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "11:26",
+   "ts": 1785036360,
+   "author": "Екатерина Ма-Ко-Е",
+   "text": "Как пионер?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "11:29",
+   "ts": 1785036540,
+   "author": "No Good",
+   "text": "Как щучка?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "11:30",
+   "ts": 1785036600,
+   "author": "Так надо",
+   "text": "Пишут в оронгое 131, а щучка Тохой чисто",
+   "quote": "No Good Как щучка?",
+   "fwd": false,
+   "kind": "clean",
+   "borts": [
+    "131"
+   ]
+  },
+  {
+   "time": "11:32",
+   "ts": 1785036720,
+   "author": "bs",
+   "text": "как с истока до тулунжи?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "11:34",
+   "ts": 1785036840,
+   "author": "Арина",
+   "text": "Типография чисто",
+   "quote": "",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "11:35",
+   "ts": 1785036900,
+   "author": "Whatislove",
+   "text": "ГМЗ 115 в сторону химчистки",
+   "quote": "",
+   "fwd": false,
+   "kind": "other",
+   "borts": [
+    "115"
+   ]
+  },
+  {
+   "time": "11:36",
+   "ts": 1785036960,
+   "author": "Анастасия",
+   "text": "Как начало",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "11:36",
+   "ts": 1785036960,
+   "author": "Константин",
+   "text": "Как жд вокзал подскажите пожалуйста?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "11:36",
+   "ts": 1785036960,
+   "author": "Арина",
+   "text": "Чисто",
+   "quote": "Константин Как жд вокзал подскажите пожалуйста?",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "11:37",
+   "ts": 1785037020,
+   "author": "ВМ",
+   "text": "Баня аптека юбилейка чисто 5 минут",
+   "quote": "",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "11:37",
+   "ts": 1785037020,
+   "author": "Арина",
+   "text": "Завод окон чисто",
+   "quote": "",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "11:39",
+   "ts": 1785037140,
+   "author": "Баир",
+   "text": "Как стимул?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "11:41",
+   "ts": 1785037260,
+   "author": "Арина",
+   "text": "Саяны, фабрика , гмз чисто",
+   "quote": "",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "11:42",
+   "ts": 1785037320,
+   "author": "Р Д",
+   "text": "Проехали?",
+   "quote": "Баир Как стимул?",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "11:42",
+   "ts": 1785037320,
+   "author": "Виталий",
+   "text": "Как почтовкв подскажите",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "11:42",
+   "ts": 1785037320,
+   "author": "Angelina",
+   "text": "Онохой кедр ген мост топаз перед Эрхириком до восточного чисто",
+   "quote": "Переслано:",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "11:43",
+   "ts": 1785037380,
+   "author": "Арина",
+   "text": "Борт",
+   "quote": "",
+   "fwd": false,
+   "kind": "active",
+   "borts": []
+  },
+  {
+   "time": "11:43",
+   "ts": 1785037380,
+   "author": "Арина",
+   "text": "Встал на гмз",
+   "quote": "",
+   "fwd": false,
+   "kind": "other",
+   "borts": []
+  },
+  {
+   "time": "11:43",
+   "ts": 1785037380,
+   "author": "Р Д",
+   "text": "Стимул чисто",
+   "quote": "",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "11:44",
+   "ts": 1785037440,
+   "author": "Р Д",
+   "text": "Начало солдатского как?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "11:44",
+   "ts": 1785037440,
+   "author": "Whatislove",
+   "text": ".",
+   "quote": "Whatislove ГМЗ 115 в сторону химчистки",
+   "fwd": false,
+   "kind": "other",
+   "borts": []
+  },
+  {
+   "time": "11:44",
+   "ts": 1785037440,
+   "author": "𝔨𝔞𝔱𝔢𝔯𝔦𝔫𝔞",
+   "text": "118 кружит возле юбилейке",
+   "quote": "",
+   "fwd": false,
+   "kind": "other",
+   "borts": [
+    "118"
+   ]
+  },
+  {
+   "time": "11:45",
+   "ts": 1785037500,
+   "author": "Dreik",
+   "text": "Как стеколка левый до истока",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "11:50",
+   "ts": 1785037800,
+   "author": "Елена Сол",
+   "text": "Как обстановка от Соснового до Южлага?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "11:53",
+   "ts": 1785037980,
+   "author": "Р Д",
+   "text": "Чисто",
+   "quote": "Р Д Начало солдатского как?",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "11:54",
+   "ts": 1785038040,
+   "author": "Сергей",
+   "text": "Подскажите бурвод, кп",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:00",
+   "ts": 1785038400,
+   "author": "Анастасия",
+   "text": "Солдатска до аэропорта подскажите пожалуйста",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:00",
+   "ts": 1785038400,
+   "author": "Туяна",
+   "text": "С Нижней Иволги до Гусиноозёрска как обстановка?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:00",
+   "ts": 1785038400,
+   "author": "Марина Милёшкина",
+   "text": "Как октябрь, крокус, Мега дом",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:01",
+   "ts": 1785038460,
+   "author": "Анастасия",
+   "text": "Октябрь чисто",
+   "quote": "",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "12:04",
+   "ts": 1785038640,
+   "author": "Jey",
+   "text": "Борт едит по бурводу в сторону моста",
+   "quote": "",
+   "fwd": false,
+   "kind": "active",
+   "borts": []
+  },
+  {
+   "time": "12:11",
+   "ts": 1785039060,
+   "author": "Игорь",
+   "text": "20ые, круг чисто",
+   "quote": "",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "12:13",
+   "ts": 1785039180,
+   "author": "Алтана Дамбаева",
+   "text": "77 конечка подскажите пожалуйста",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": [
+    "77"
+   ]
+  },
+  {
+   "time": "12:17",
+   "ts": 1785039420,
+   "author": "Игорь",
+   "text": "40й, 43й чисто",
+   "quote": "Переслано: Игорь",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "12:23",
+   "ts": 1785039780,
+   "author": "Евгений",
+   "text": "118 борт мега дом актив",
+   "quote": "",
+   "fwd": false,
+   "kind": "active",
+   "borts": [
+    "118"
+   ]
+  },
+  {
+   "time": "12:24",
+   "ts": 1785039840,
+   "author": "Екатерина Гавина",
+   "text": "Как Товарный двор?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:25",
+   "ts": 1785039900,
+   "author": "Oyuna Lotus",
+   "text": "Как элеватор баня Шишковка",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:25",
+   "ts": 1785039900,
+   "author": "Станислав Шагдуров",
+   "text": "20а, ключевская, трубачеева подскажите пожалуйста?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:27",
+   "ts": 1785040020,
+   "author": "Маргарита Викторовна",
+   "text": "Скажите пожалуйста как юбилейный, мега титан, восточный?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:27",
+   "ts": 1785040020,
+   "author": "Станислав Шагдуров",
+   "text": "Акбэс, квартала, гмз подскажите пожалуйста?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:29",
+   "ts": 1785040140,
+   "author": "Oyuna Lotus",
+   "text": "Титан эльбрус баня чисто",
+   "quote": "",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "12:29",
+   "ts": 1785040140,
+   "author": "Maria",
+   "text": "44 квартал Мороженка бсмп 20а до стрелки фортуна чисто только что",
+   "quote": "",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "12:32",
+   "ts": 1785040320,
+   "author": "Мария",
+   "text": "107 борт пошёл с левого в сторону города",
+   "quote": "",
+   "fwd": false,
+   "kind": "active",
+   "borts": [
+    "107"
+   ]
+  },
+  {
+   "time": "12:33",
+   "ts": 1785040380,
+   "author": "Мария",
+   "text": "Чисто было 10 минут назад",
+   "quote": "Николай Левый шинка, наран подскажите пожалуйста?",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "12:33",
+   "ts": 1785040380,
+   "author": "Николай",
+   "text": "Левый шинка, наран подскажите пожалуйста?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:35",
+   "ts": 1785040500,
+   "author": "лика",
+   "text": "на пр. автомобилистов стопнули марк 2 118 борт возле авто салон, стоят 120 борт возле машин",
+   "quote": "",
+   "fwd": false,
+   "kind": "active",
+   "borts": [
+    "118",
+    "120"
+   ]
+  },
+  {
+   "time": "12:36",
+   "ts": 1785040560,
+   "author": "Алёна",
+   "text": "Горький сотые подскажите пожалуйста",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:38",
+   "ts": 1785040680,
+   "author": "Sdd",
+   "text": "Подскажите как с мёда до вахминстрова ГАИ или транспортники стоят???",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:38",
+   "ts": 1785040680,
+   "author": "Станислав Шагдуров",
+   "text": "Гмз 115 борт в машине сидят",
+   "quote": "",
+   "fwd": false,
+   "kind": "passive",
+   "borts": [
+    "115"
+   ]
+  },
+  {
+   "time": "12:39",
+   "ts": 1785040740,
+   "author": "Елена Сол",
+   "text": "Как обстановка от Соснового до Южлага?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:41",
+   "ts": 1785040860,
+   "author": "Станислав Шагдуров",
+   "text": "Динамо, типография, борсоева, сизо, наран подскажите пожалуйста?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:42",
+   "ts": 1785040920,
+   "author": "Г",
+   "text": "Горький как?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:42",
+   "ts": 1785040920,
+   "author": "Г",
+   "text": "Переезд",
+   "quote": "",
+   "fwd": false,
+   "kind": "other",
+   "borts": []
+  },
+  {
+   "time": "12:42",
+   "ts": 1785040920,
+   "author": "Елена Сол",
+   "text": "Будьте добры подскажите пожалуйста как от Соснового до южлага",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:43",
+   "ts": 1785040980,
+   "author": "Дамба Аюшеев",
+   "text": "Как бурвод, сотниково?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:44",
+   "ts": 1785041040,
+   "author": "Г",
+   "text": "Горький переезд чисто",
+   "quote": "",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "12:45",
+   "ts": 1785041100,
+   "author": "Г",
+   "text": "Дамба Аюшеев Как бурвод, сотниково? 00:03",
+   "quote": "",
+   "fwd": true,
+   "kind": "question",
+   "borts": [
+    "00",
+    "03"
+   ]
+  },
+  {
+   "time": "12:49",
+   "ts": 1785041340,
+   "author": "Димова Татьяна",
+   "text": "Как Наран",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:49",
+   "ts": 1785041340,
+   "author": "Łűđmįłå",
+   "text": "Чисто",
+   "quote": "Димова Татьяна Как Наран",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "12:49",
+   "ts": 1785041340,
+   "author": "Димова Татьяна",
+   "text": "Спасибо",
+   "quote": "",
+   "fwd": false,
+   "kind": "other",
+   "borts": []
+  },
+  {
+   "time": "12:50",
+   "ts": 1785041400,
+   "author": "Светлана",
+   "text": "Подскажите пожалуйста, как южлаг, почтовка, мелькомбинат",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:50",
+   "ts": 1785041400,
+   "author": "Игорь",
+   "text": "20ые, мелькомбинат чисто",
+   "quote": "Переслано:",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "12:50",
+   "ts": 1785041400,
+   "author": "Станислав Шагдуров",
+   "text": "Как начало солдатского подскажите пожалуйста срочно?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:50",
+   "ts": 1785041400,
+   "author": "Na",
+   "text": "Почтовка чисто Мелькомбинат чисто",
+   "quote": "Светлана Подскажите пожалуйста, как южлаг, почтовка, мелькомбинат",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "12:50",
+   "ts": 1785041400,
+   "author": "Фарход",
+   "text": "Стеколка переезд подскажите пожалуйста?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:50",
+   "ts": 1785041400,
+   "author": "Kate Rina",
+   "text": "ВАИ стоит борт",
+   "quote": "",
+   "fwd": false,
+   "kind": "active",
+   "borts": []
+  },
+  {
+   "time": "12:51",
+   "ts": 1785041460,
+   "author": "Станислав Шагдуров",
+   "text": "Активны?",
+   "quote": "Kate Rina ВАИ стоит борт",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:51",
+   "ts": 1785041460,
+   "author": "Kate Rina",
+   "text": "остановили кого то",
+   "quote": "Станислав Шагдуров Активны?",
+   "fwd": false,
+   "kind": "active",
+   "borts": []
+  },
+  {
+   "time": "12:51",
+   "ts": 1785041460,
+   "author": "Максим",
+   "text": "Как спирт заводская трасса",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:51",
+   "ts": 1785041460,
+   "author": "Тумэн Будаев",
+   "text": "Мегадом 118 борт актив две палки",
+   "quote": "",
+   "fwd": false,
+   "kind": "active",
+   "borts": [
+    "118"
+   ]
+  },
+  {
+   "time": "12:54",
+   "ts": 1785041640,
+   "author": "Алена",
+   "text": "Как начало ?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:55",
+   "ts": 1785041700,
+   "author": "Aryuna",
+   "text": "Здравствуй, можете скинуть пожалуйста группы анти ДПС Турунтаево и Гремячинск",
+   "quote": "",
+   "fwd": false,
+   "kind": "active",
+   "borts": []
+  },
+  {
+   "time": "12:55",
+   "ts": 1785041700,
+   "author": "Алеся",
+   "text": "Борт 112 с Трубачеева поднимается в сторону ПОШ",
+   "quote": "",
+   "fwd": false,
+   "kind": "active",
+   "borts": [
+    "112"
+   ]
+  },
+  {
+   "time": "12:55",
+   "ts": 1785041700,
+   "author": "Г",
+   "text": "Как шумяцкого?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:56",
+   "ts": 1785041760,
+   "author": "Прокопьева",
+   "text": "Мокрова , 44 мороженка чисто",
+   "quote": "",
+   "fwd": false,
+   "kind": "clean",
+   "borts": [
+    "44"
+   ]
+  },
+  {
+   "time": "12:56",
+   "ts": 1785041760,
+   "author": "Станислав Шагдуров",
+   "text": "Чисто",
+   "quote": "Алена Как начало ?",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "12:56",
+   "ts": 1785041760,
+   "author": "Валерия",
+   "text": "107 борт на ост. КП",
+   "quote": "",
+   "fwd": false,
+   "kind": "active",
+   "borts": [
+    "107"
+   ]
+  },
+  {
+   "time": "12:57",
+   "ts": 1785041820,
+   "author": "Екатерина",
+   "text": "Здравствуйте подскажите пожалуйста как сотые ,мед горький .",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:57",
+   "ts": 1785041820,
+   "author": "Александр",
+   "text": "сотниково пост борт",
+   "quote": "",
+   "fwd": false,
+   "kind": "active",
+   "borts": []
+  },
+  {
+   "time": "12:57",
+   "ts": 1785041820,
+   "author": "Игорь",
+   "text": "Ольхон чисто",
+   "quote": "",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "12:58",
+   "ts": 1785041880,
+   "author": "Alena Stanislavovna",
+   "text": "В какое сторону",
+   "quote": "Валерия 107 борт на ост. КП",
+   "fwd": false,
+   "kind": "other",
+   "borts": []
+  },
+  {
+   "time": "12:58",
+   "ts": 1785041880,
+   "author": "Валерия",
+   "text": "Ваи",
+   "quote": "Alena Stanislavovna В какое сторону",
+   "fwd": false,
+   "kind": "other",
+   "borts": []
+  },
+  {
+   "time": "12:58",
+   "ts": 1785041880,
+   "author": "Алена",
+   "text": "Начало чисто",
+   "quote": "",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "12:59",
+   "ts": 1785041940,
+   "author": "Валерия",
+   "text": "Как типография?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "12:59",
+   "ts": 1785041940,
+   "author": "Станислав Шагдуров",
+   "text": "У машины номера вроде как снимают, заняты они",
+   "quote": "Alena Stanislavovna В какое сторону",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "13:01",
+   "ts": 1785042060,
+   "author": "Станислав Шагдуров",
+   "text": "ГМЗ как?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "13:01",
+   "ts": 1785042060,
+   "author": "Станислав Шагдуров",
+   "text": "Кто видел?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "13:02",
+   "ts": 1785042120,
+   "author": "Валерия",
+   "text": "Налоговая, типография чисто",
+   "quote": "",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "13:04",
+   "ts": 1785042240,
+   "author": "Булгана Борисовна",
+   "text": "Как наран?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "13:04",
+   "ts": 1785042240,
+   "author": "Светлана",
+   "text": "Чисто до отворота",
+   "quote": "Максим Как спирт заводская трасса",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "13:05",
+   "ts": 1785042300,
+   "author": "Светлана",
+   "text": "Южлаг, почтовка",
+   "quote": "",
+   "fwd": false,
+   "kind": "other",
+   "borts": []
+  },
+  {
+   "time": "13:06",
+   "ts": 1785042360,
+   "author": "Валерия",
+   "text": "Чисто было мин 5 назад",
+   "quote": "Булгана Борисовна Как наран?",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "13:07",
+   "ts": 1785042420,
+   "author": "Марина Панькова",
+   "text": "Гмз борт актив 2 палки",
+   "quote": "",
+   "fwd": false,
+   "kind": "active",
+   "borts": []
+  },
+  {
+   "time": "13:07",
+   "ts": 1785042420,
+   "author": "Марина Панькова",
+   "text": "В сторону тск",
+   "quote": "",
+   "fwd": false,
+   "kind": "other",
+   "borts": []
+  },
+  {
+   "time": "13:10",
+   "ts": 1785042600,
+   "author": "Марина Панькова",
+   "text": "Как центр? Гостиница Бурятия?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "13:11",
+   "ts": 1785042660,
+   "author": "Алексей",
+   "text": "Сервико чисто",
+   "quote": "",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "13:12",
+   "ts": 1785042720,
+   "author": "Алексей",
+   "text": "Дорханская чисто",
+   "quote": "",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "13:13",
+   "ts": 1785042780,
+   "author": "Мария",
+   "text": "Бурвод обстановку подскажите пожалуйста",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "13:16",
+   "ts": 1785042960,
+   "author": "Евгений",
+   "text": "Стеколка переезд ???",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "13:17",
+   "ts": 1785043020,
+   "author": "Булгана Борисовна",
+   "text": "Как круиз?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "13:17",
+   "ts": 1785043020,
+   "author": "Екатерина",
+   "text": "Как мед подскажите пожалуйста",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "13:20",
+   "ts": 1785043200,
+   "author": "Екатерина Ма-Ко-Е",
+   "text": "Завод окон чисто",
+   "quote": "",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "13:20",
+   "ts": 1785043200,
+   "author": "Екатерина Ма-Ко-Е",
+   "text": "Центральный рынок чисто",
+   "quote": "",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "13:20",
+   "ts": 1785043200,
+   "author": "Екатерина Ма-Ко-Е",
+   "text": "Европа чисто",
+   "quote": "",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "13:23",
+   "ts": 1785043380,
+   "author": "Алексей Спиридонов",
+   "text": "В сторону горяченска не подскажете ?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "13:24",
+   "ts": 1785043440,
+   "author": "Антон",
+   "text": "Переезд горький подскажите",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "13:25",
+   "ts": 1785043500,
+   "author": "Andrei",
+   "text": "0км почтовка чисто",
+   "quote": "",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  },
+  {
+   "time": "13:26",
+   "ts": 1785043560,
+   "author": "Валентина",
+   "text": "На борсоева борт актив в сторону левого",
+   "quote": "",
+   "fwd": false,
+   "kind": "active",
+   "borts": []
+  },
+  {
+   "time": "13:27",
+   "ts": 1785043620,
+   "author": "Наталья",
+   "text": "Как с Щучки до города?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "13:28",
+   "ts": 1785043680,
+   "author": "Наталья",
+   "text": "Антон Переезд горький подскажите 00:02",
+   "quote": "",
+   "fwd": true,
+   "kind": "question",
+   "borts": [
+    "00",
+    "02"
+   ]
+  },
+  {
+   "time": "13:32",
+   "ts": 1785043920,
+   "author": "Лера",
+   "text": "как стрелка ?",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "13:32",
+   "ts": 1785043920,
+   "author": "Vyacheslavovich",
+   "text": "Солдатска до аэропорта подскажите пожалуйста",
+   "quote": "Переслано: Анастасия",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "13:34",
+   "ts": 1785044040,
+   "author": "Татьяна Петрова",
+   "text": "Как 40е квартала",
+   "quote": "",
+   "fwd": false,
+   "kind": "question",
+   "borts": []
+  },
+  {
+   "time": "13:34",
+   "ts": 1785044040,
+   "author": "Максим",
+   "text": "Чисто было минут 7назад",
+   "quote": "Татьяна Петрова Как 40е квартала",
+   "fwd": false,
+   "kind": "clean",
+   "borts": []
+  }
+ ]
+}
